@@ -21,6 +21,7 @@ architecture while documenting the full hardware development process.
 5) DiskII Controller Card: https://github.com/frubem/DiskII
 6) HDMI Card: https://github.com/frubem/A2DVI
 7) Language Card: https://github.com/frubem/LanguageCard
+8) Apple ][ joystick Adapter: https://github.com/frubem/Apple2-Joystick-Adapter
 
 ## Software
 Includes AppleSoft BASIC programs and 6502 assembly examples built with the Merlin assembler.

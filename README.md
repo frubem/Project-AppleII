@@ -19,10 +19,11 @@ architecture while documenting the full hardware development process.
 3) ROM Adapter 9316 to 27C256: https://github.com/frubem/adapter9316-27C256
 4) Keyboard PS2 to Apple Keyboard ASCI: https://github.com/frubem/AppleII-Keyboard
 5) DiskII Controller Card: https://github.com/frubem/DiskII
-6) HDMI Card: https://github.com/frubem/A2DVI
-7) Language Card: https://github.com/frubem/LanguageCard
-8) Apple ][ joystick Adapter: https://github.com/frubem/Apple2-Joystick-Adapter
-9) 80 Column Card: https://github.com/frubem/80ColumnCard
+6) SmartDisk II — Apple II Floppy Emulator: https://github.com/frubem/AppleIIDiskIIStm32F411
+7) HDMI Card: https://github.com/frubem/A2DVI
+8) Language Card: https://github.com/frubem/LanguageCard
+9) Apple ][ joystick Adapter: https://github.com/frubem/Apple2-Joystick-Adapter
+10) 80 Column Card: https://github.com/frubem/80ColumnCard
 
 ## Software
 Includes AppleSoft BASIC programs and 6502 assembly examples built with the Merlin assembler.

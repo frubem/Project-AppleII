@@ -1,7 +1,5 @@
 # Apple II Rev. 0 Replica
 
-Projeto Desenvolvido no ano de 2024 - 2025
-
 This repository documents the complete development of a functional
 Apple II Revision 0 replica, following the original schematics,
 layout, and design principles.

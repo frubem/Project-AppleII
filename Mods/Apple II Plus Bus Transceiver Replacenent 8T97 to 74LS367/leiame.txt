@@ -1,0 +1,2 @@
+e possivel substituir diretamente o 8T97 pelo 74LS367 sen fazer nenhuna adaptacao
+

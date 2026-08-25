@@ -17,13 +17,14 @@ architecture while documenting the full hardware development process.
 3) ROM Adapter 9316 to 27C256: https://github.com/frubem/adapter9316-27C256
 4) Keyboard PS2 to Apple Keyboard ASCI: https://github.com/frubem/AppleII-Keyboard
 5) DiskII Controller Card: https://github.com/frubem/DiskII
-6) SmartDisk II — Apple Liron disk controller: https://github.com/frubem/SmartDiskII
-7) SmartDisk II — Apple II Floppy Emulator: https://github.com/frubem/AppleIIDiskIIStm32F411
-8) MockingBoard2K: https://github.com/frubem/mockingboard2k
-9) Language Card: https://github.com/frubem/LanguageCard
-10) Apple ][ joystick Adapter: https://github.com/frubem/Apple2-Joystick-Adapter
-11) 80 Column Card: https://github.com/frubem/80ColumnCard
-12) A2VGA Audio: https://github.com/frubem/a2vga_audio
+6) SDisk2 Floppy Drive Emulator: https://github.com/frubem/SDisk2
+7) SmartDisk II Liron Disk Controller: https://github.com/frubem/SmartDiskII
+8) SmartDisk II Floppy Drive Emulator: https://github.com/frubem/AppleIIDiskIIStm32F411
+9) MockingBoard2K: https://github.com/frubem/mockingboard2k
+10) Language Card: https://github.com/frubem/LanguageCard
+11) Apple ][ joystick Adapter: https://github.com/frubem/Apple2-Joystick-Adapter
+12) 80 Column Card: https://github.com/frubem/80ColumnCard
+13) A2VGA Audio: https://github.com/frubem/a2vga_audio
 
 ## Software
 Includes AppleSoft BASIC programs and 6502 assembly examples built with the Merlin assembler.

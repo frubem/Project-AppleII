@@ -28,7 +28,7 @@ architecture while documenting the full hardware development process.
 14) 80 Column Card: https://github.com/frubem/80ColumnCard
 15) A2VGA Audio: https://github.com/frubem/a2vga_audio
 
-## Software
+## Programs
 Includes AppleSoft BASIC programs and 6502 assembly examples built with the Merlin assembler.
 
 ![image](https://github.com/frubem/Project-AppleII/blob/main/Images/image1.jpg)

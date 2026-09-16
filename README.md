@@ -16,7 +16,7 @@ architecture while documenting the full hardware development process.
 2) ROM Adapter 2513 to 2716: https://github.com/frubem/2513CharGenAdapter
 3) ROM Adapter 9316 to 27C256: https://github.com/frubem/adapter9316-27C256
 4) Apple II Keyboard: https://github.com/frubem/unified_retro_keyboard
-5) Keyboard PS2 to Apple Keyboard ASCI: https://github.com/frubem/AppleII-Keyboard
+5) Keyboard PS2 to Apple Keyboard ASCII: https://github.com/frubem/AppleII-Keyboard
 6) DiskII Controller Card: https://github.com/frubem/DiskII
 7) SDisk2 Floppy Drive Emulator: https://github.com/frubem/SDisk2
 8) SmartDisk II Liron Disk Controller: https://github.com/frubem/SmartDiskII

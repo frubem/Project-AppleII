@@ -13,7 +13,7 @@ architecture while documenting the full hardware development process.
 
 
 1) Apple Motherboard: https://github.com/frubem/AppleII-Motherboard
-2) Apple External Oscillator: 
+2) Apple External Oscillator: https://github.com/frubem/Apple-external-oscillator
 3) ROM Adapter 2513 to 2716: https://github.com/frubem/2513CharGenAdapter
 4) ROM Adapter 9316 to 27C256: https://github.com/frubem/adapter9316-27C256
 5) Apple II Keyboard: https://github.com/frubem/unified_retro_keyboard

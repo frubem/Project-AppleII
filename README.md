@@ -16,6 +16,7 @@ architecture while documenting the full hardware development process.
 2) Apple External Oscillator: https://github.com/frubem/Apple-external-oscillator
 3) ROM Adapter 2513 to 2716: https://github.com/frubem/2513CharGenAdapter
 4) ROM Adapter 9316 to 27C256: https://github.com/frubem/adapter9316-27C256
+5) NE558 drop-in replacement: https://github.com/frubem/ne558_replacement
 5) Apple II Keyboard: https://github.com/frubem/unified_retro_keyboard
 6) Keyboard PS2 to Apple Keyboard ASCII: https://github.com/frubem/AppleII-Keyboard
 7) DiskII Controller Card: https://github.com/frubem/DiskII

@@ -23,12 +23,13 @@ architecture while documenting the full hardware development process.
 8) SDisk2 Floppy Drive Emulator: https://github.com/frubem/SDisk2
 9) SmartDisk II Liron Disk Controller: https://github.com/frubem/SmartDiskII
 10) SmartDisk II Floppy Drive Emulator: https://github.com/frubem/AppleIIDiskIIStm32F411
-11) DAN ][ Controller: Apple II Storage Interface, Network Interface, FTP Server: https://github.com/frubem/Apple2Card
-12) MockingBoard2K: https://github.com/frubem/mockingboard2k
-13) Language Card: https://github.com/frubem/LanguageCard
-14) Apple ][ joystick Adapter: https://github.com/frubem/Apple2-Joystick-Adapter
-15) 80 Column Card: https://github.com/frubem/80ColumnCard
-16) A2VGA Audio: https://github.com/frubem/a2vga_audio
+11) SuperSerial: https://github.com/frubem/SuperSerial
+12) DAN ][ Controller: Apple II Storage Interface, Network Interface, FTP Server: https://github.com/frubem/Apple2Card
+13) MockingBoard2K: https://github.com/frubem/mockingboard2k
+14) Language Card: https://github.com/frubem/LanguageCard
+15) Apple ][ joystick Adapter: https://github.com/frubem/Apple2-Joystick-Adapter
+16) 80 Column Card: https://github.com/frubem/80ColumnCard
+17) A2VGA Audio: https://github.com/frubem/a2vga_audio
 
 ## Programs
 Includes AppleSoft BASIC programs and 6502 assembly examples built with the Merlin assembler.

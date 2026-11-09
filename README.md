@@ -13,7 +13,7 @@ architecture while documenting the full hardware development process.
 
 
 1) Apple II Rev. 0 Motherboard: https://github.com/frubem/AppleII-Motherboard
-2) Apple II Plus RFI Rev. 1 Motherboard: https://github.com/frubem/AppleIIPlus-Motherboard (Experimental)
+2) Apple II Plus RFI Rev. 2 Motherboard: https://github.com/frubem/AppleIIPlus-Motherboard (Experimental)
 3) Apple External Oscillator: https://github.com/frubem/Apple-external-oscillator
 4) ROM Adapter 2513 to 2716: https://github.com/frubem/2513CharGenAdapter
 5) ROM Adapter 9316 to 27C256: https://github.com/frubem/adapter9316-27C256

@@ -13,26 +13,25 @@ architecture while documenting the full hardware development process.
 
 
 1) Apple II Rev. 0 Motherboard: https://github.com/frubem/AppleII-Motherboard
-2) Apple II Plus RFI Rev. 2 Motherboard: https://github.com/frubem/AppleIIPlus-Motherboard (Experimental)
-3) Apple External Oscillator: https://github.com/frubem/Apple-external-oscillator
-4) ROM Adapter 2513 to 2716: https://github.com/frubem/2513CharGenAdapter
-5) ROM Adapter 9316 to 27C256: https://github.com/frubem/adapter9316-27C256
-6) NE558 drop-in replacement: https://github.com/frubem/ne558_replacement
-7) Apple II Keyboard: https://github.com/frubem/unified_retro_keyboard
-8) Keyboard PS2 to Apple Keyboard ASCII: https://github.com/frubem/AppleII-Keyboard
-9) Professional Digital Cassette Recorder for 8-bit Machines: https://github.com/frubem/powadcr
-10) DiskII Controller Card: https://github.com/frubem/DiskII
-11) SDisk2 Floppy Drive Emulator: https://github.com/frubem/SDisk2
-12) SmartDisk II Liron Disk Controller: https://github.com/frubem/SmartDiskII
-13) SmartDisk II Floppy Drive Emulator: https://github.com/frubem/AppleIIDiskIIStm32F411
-14) SuperSerial: https://github.com/frubem/SuperSerial
-15) GraphicPlus: https://github.com/frubem/GraphicPlus
-16) DAN ][ Controller: Apple II Storage Interface, Network Interface, FTP Server: https://github.com/frubem/Apple2Card
-17) MockingBoard2K: https://github.com/frubem/mockingboard2k
-18) Language Card: https://github.com/frubem/LanguageCard
-19) Apple ][ joystick Adapter: https://github.com/frubem/Apple2-Joystick-Adapter
-20) 80 Column Card: https://github.com/frubem/80ColumnCard
-21) A2VGA Audio: https://github.com/frubem/a2vga_audio
+2) Apple External Oscillator: https://github.com/frubem/Apple-external-oscillator
+3) ROM Adapter 2513 to 2716: https://github.com/frubem/2513CharGenAdapter
+4) ROM Adapter 9316 to 27C256: https://github.com/frubem/adapter9316-27C256
+5) NE558 drop-in replacement: https://github.com/frubem/ne558_replacement
+6) Apple II Keyboard: https://github.com/frubem/unified_retro_keyboard
+7) Keyboard PS2 to Apple Keyboard ASCII: https://github.com/frubem/AppleII-Keyboard
+8) Professional Digital Cassette Recorder for 8-bit Machines: https://github.com/frubem/powadcr
+9) DiskII Controller Card: https://github.com/frubem/DiskII
+10) SDisk2 Floppy Drive Emulator: https://github.com/frubem/SDisk2
+11) SmartDisk II Liron Disk Controller: https://github.com/frubem/SmartDiskII
+12) SmartDisk II Floppy Drive Emulator: https://github.com/frubem/AppleIIDiskIIStm32F411
+13) SuperSerial: https://github.com/frubem/SuperSerial
+14) GraphicPlus: https://github.com/frubem/GraphicPlus
+15) DAN ][ Controller: Apple II Storage Interface, Network Interface, FTP Server: https://github.com/frubem/Apple2Card
+16) MockingBoard2K: https://github.com/frubem/mockingboard2k
+17) Language Card: https://github.com/frubem/LanguageCard
+18) Apple ][ joystick Adapter: https://github.com/frubem/Apple2-Joystick-Adapter
+19) 80 Column Card: https://github.com/frubem/80ColumnCard
+20) A2VGA Audio: https://github.com/frubem/a2vga_audio
 
 ## Programs
 Includes AppleSoft BASIC programs and 6502 assembly examples built with the Merlin assembler.
